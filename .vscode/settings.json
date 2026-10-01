@@ -1,0 +1,6 @@
+{
+  "window.zoomLevel": 1,
+  "editor.tabSize": 1,
+  "python-envs.defaultEnvManager": "ms-python.python:venv",
+  "python-envs.defaultPackageManager": "ms-python.python:pip"
+}

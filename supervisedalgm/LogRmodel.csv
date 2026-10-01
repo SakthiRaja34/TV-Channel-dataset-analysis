@@ -1,0 +1,13 @@
+Performance,Attendance,StudyLevel,Result
+Low,Poor,Low,Fail
+Low,Average,Low,Fail
+Medium,Average,Medium,Pass
+Medium,Good,Medium,Pass
+High,Good,High,Pass
+High,Excellent,High,Pass
+Medium,Good,High,Pass
+Low,Poor,Medium,Fail
+High,Average,Medium,Pass
+Medium,Excellent,High,Pass
+Low,Average,Medium,Fail
+High,Good,Medium,Pass
